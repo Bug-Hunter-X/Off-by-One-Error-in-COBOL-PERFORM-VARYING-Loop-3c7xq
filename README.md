@@ -1,0 +1,1 @@
+This repository contains a simple COBOL program demonstrating a common off-by-one error in a PERFORM VARYING loop. The program iterates from 1 to 10, but depending on the intended behavior, this might be incorrect. The solution demonstrates how to correct the loop to achieve the desired behavior.
